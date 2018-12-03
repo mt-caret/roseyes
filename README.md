@@ -9,3 +9,7 @@ usage
 ```
 $ rosrun roseyes run_roseyes.py $PATH_TO_XEYES
 ```
+
+requirements for xeyes (on ubuntu)
+
+- xutils-dev
